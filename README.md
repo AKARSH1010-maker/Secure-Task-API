@@ -2,6 +2,8 @@
 
 A full-stack task management web application with user authentication, protected routes, task CRUD operations, advanced filtering, and a polished modern dashboard UI.
 
+##Live Link- https://secure-task-api-omega.vercel.app/
+
 ## Features
 
 - User registration and login
