@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api/v1"
+  baseURL: "http://secure-task-api-production.up.railway.app"
 });
 
 API.interceptors.request.use((req) => {
